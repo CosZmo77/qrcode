@@ -13,7 +13,7 @@ This project generates QR codes for various types of data. It is built using Rea
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/qrcode.git
+   git clone https://github.com/CosZmo77/qrcode.git
    ```
 2. Navigate to the project directory:
    ```sh
